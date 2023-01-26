@@ -13,6 +13,14 @@
 
 ## Notas de versión
 - [VMware vSphere with Tanzu 8.0.0a](https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vmware-vsphere-with-tanzu-80-release-notes/index.html)
+- [VMware Tanzu Kubernetes Grid 1.6.1](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/1.6/vmware-tanzu-kubernetes-grid-16/GUID-release-notes.html)
+- [Tanzu Kubernetes Releases 1.23.8](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-releases/services/rn/vmware-tanzu-kubernetes-releases-release-notes/index.html)
+- [VMware Container Networking with Antrea 1.5.0](https://docs.vmware.com/en/VMware-Container-Networking-with-Antrea/1.5.0/rn/vmware-container-networking-with-antrea-150-release-notes/index.html)
+- [VMware Tanzu Application Platform 1.4.0](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.4/tap/release-notes.html)
+- [VMware Tanzu Application Service 3.0](https://docs.pivotal.io/application-service/3-0/release-notes/runtime-rn.html)
+- [VMware Tanzu Mission Control](https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/rn/vmware-tanzu-mission-control-release-notes/index.html)
+- [VMware Tanzu Service Mesh](https://docs.vmware.com/en/VMware-Tanzu-Service-Mesh/services/rn/VMware-Tanzu-Service-Mesh-Release-Notes.html)
+- [VMware Tanzu Observability - VMware Aria Operations for Applications](https://docs.wavefront.com/wavefront_release_notes.html)
 
 ## Arquitecturas de referencia
 - [VMware Tanzu for Kubernetes Operations Reference Architecture](https://docs.vmware.com/en/VMware-Tanzu-for-Kubernetes-Operations/index.html)
