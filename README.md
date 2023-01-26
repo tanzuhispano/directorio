@@ -2,7 +2,7 @@
 
 ## Enlaces útiles
 - [Sitio web de Tanzu](https://tanzu.vmware.com/)
-- [Tanzu Tech Zone](https://www.meetup.com/es/tanzu-hispano/)
+- [Tanzu Tech Zone](https://apps-cloudmgmt.techzone.vmware.com/tanzu-techzone)
 - [Tanzu Developer Center](https://tanzu.vmware.com/developer/)
 - [Tanzu Explainer](https://vmc.techzone.vmware.com/resource/tanzu-explainer)
 
