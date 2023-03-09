@@ -40,8 +40,9 @@
 ### Meetups
 - [Página de grupo en meetup.com](https://www.meetup.com/es/tanzu-hispano/)
 
-- [Meetup #5](https://www.youtube.com/watch?v=HPI7CLzFZeo&t=1s): Sobre Tanzu Kubernetes Grid 2.0 en vSphere 8
-- [Meetup #4](https://www.youtube.com/watch?v=jDNNB_n53oA&t=2s): Sobre Service Installer for VMware Tanzu
+- [Meetup #6](https://youtu.be/z63oTNeTEi0): Tanzu para vSphere Admins: From Zero To Hero!
+- [Meetup #5](https://youtu.be/HPI7CLzFZeo): Sobre Tanzu Kubernetes Grid 2.0 en vSphere 8
+- [Meetup #4](https://youtu.be/jDNNB_n53oA): Sobre Service Installer for VMware Tanzu
 - [Meetup #3](https://www.youtube.com/watch?v=rkci46GFlQA): Sobre Kubeapps
 - [Meetup #2](https://www.youtube.com/watch?v=wKqrW2ckmuo): Sobre Proyectos de Código Abierto de Tanzu
 - [Meetup #1](https://www.youtube.com/watch?v=x4nqB2_ztlM): Sobre TCE
