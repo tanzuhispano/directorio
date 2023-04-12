@@ -14,16 +14,16 @@
 - [VMware Data Solutions](https://www.vmware.com/solutions/data-solutions.html)
 
 ## Notas de versión
-- [VMware vSphere with Tanzu 8.0.0b](https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vmware-vsphere-with-tanzu-80-release-notes/index.html)
+- [VMware vSphere with Tanzu 8.0.0c](https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vmware-vsphere-with-tanzu-80-release-notes/index.html)
 - [VMware Tanzu Kubernetes Grid 2.1.1](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/2.1/tkg-deploy-mc-21/mgmt-release-notes.html)
 - [Service Installer for VMware Tanzu 2.1.1](https://docs.vmware.com/en/Service-Installer-for-VMware-Tanzu/2.1.1/service-installer/GUID-index.html)
 - [Tanzu Kubernetes Releases 1.23.8](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-releases/services/rn/vmware-tanzu-kubernetes-releases-release-notes/index.html)
-- [VMware Container Networking with Antrea 1.5.0](https://docs.vmware.com/en/VMware-Container-Networking-with-Antrea/1.5.0/rn/vmware-container-networking-with-antrea-150-release-notes/index.html)
-- [VMware Tanzu Application Platform 1.4.2](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.4/tap/release-notes.html)
+- [VMware Container Networking with Antrea 1.6.0](https://docs.vmware.com/en/VMware-Container-Networking-with-Antrea/1.6.0/rn/vmware-container-networking-with-antrea-160-release-notes/index.html)
+- [VMware Tanzu Application Platform 1.5.0](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.5/tap/release-notes.html)
 - [VMware Tanzu Application Service 3.0.8](https://docs.pivotal.io/application-service/3-0/release-notes/runtime-rn.html)
 - [VMware Tanzu Mission Control - March 29 2023](https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/rn/vmware-tanzu-mission-control-release-notes/index.html)
 - [VMware Tanzu Service Mesh v1.14.0](https://docs.vmware.com/en/VMware-Tanzu-Service-Mesh/services/rn/VMware-Tanzu-Service-Mesh-Release-Notes.html)
-- [VMware Tanzu Observability - VMware Aria Operations for Applications v2023-11.x](https://docs.wavefront.com/wavefront_release_notes.html)
+- [VMware Tanzu Observability - VMware Aria Operations for Applications v2023-13.x](https://docs.wavefront.com/wavefront_release_notes.html)
 
 
 
@@ -43,6 +43,7 @@
 ### Meetups
 - [Página de grupo en meetup.com](https://www.meetup.com/es/tanzu-hispano/)
 
+- [Meetup #7](https://youtu.be/BPsrjRXt0Nc): ¿Backstage? ¿Supply chains? ¿Serverless? Veamos Tanzu Application Platform
 - [Meetup #6](https://youtu.be/z63oTNeTEi0): Tanzu para vSphere Admins: From Zero To Hero!
 - [Meetup #5](https://youtu.be/HPI7CLzFZeo): Sobre Tanzu Kubernetes Grid 2.0 en vSphere 8
 - [Meetup #4](https://youtu.be/jDNNB_n53oA): Sobre Service Installer for VMware Tanzu
