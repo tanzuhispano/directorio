@@ -20,8 +20,8 @@
 - [Tanzu Kubernetes Releases 1.24.9](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-releases/services/rn/vmware-tanzu-kubernetes-releases-release-notes/index.html)
 - [VMware Container Networking with Antrea 1.6.0](https://docs.vmware.com/en/VMware-Container-Networking-with-Antrea/1.6.0/rn/vmware-container-networking-with-antrea-160-release-notes/index.html)
 - [VMware Tanzu Application Platform 1.5.0](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.5/tap/release-notes.html)
-- [VMware Tanzu Application Service 3.0.8](https://docs.pivotal.io/application-service/3-0/release-notes/runtime-rn.html)
-- [VMware Tanzu Mission Control - March 29 2023](https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/rn/vmware-tanzu-mission-control-release-notes/index.html)
+- [VMware Tanzu Application Service 4.0.0](https://docs.vmware.com/en/VMware-Tanzu-Application-Service/4.0/tas-for-vms/runtime-rn.html)
+- [VMware Tanzu Mission Control - May 3, 2023](https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/rn/vmware-tanzu-mission-control-release-notes/index.html)
 - [VMware Tanzu Service Mesh v1.14.0](https://docs.vmware.com/en/VMware-Tanzu-Service-Mesh/services/rn/VMware-Tanzu-Service-Mesh-Release-Notes.html)
 - [VMware Tanzu Observability - VMware Aria Operations for Applications v2023-13.x](https://docs.wavefront.com/wavefront_release_notes.html)
 
