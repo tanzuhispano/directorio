@@ -14,17 +14,17 @@
 - [VMware Data Solutions](https://www.vmware.com/solutions/data-solutions.html)
 
 ## Notas de versión
-- [VMware vSphere with Tanzu 8.0.1](https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vmware-vsphere-with-tanzu-80-release-notes/index.html)
-- [VMware Tanzu Kubernetes Grid 2.1.1](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/2.1/tkg-deploy-mc-21/mgmt-release-notes.html)
-- [Service Installer for VMware Tanzu 2.1.1](https://docs.vmware.com/en/Service-Installer-for-VMware-Tanzu/2.1.1/service-installer/GUID-index.html)
-- [Tanzu Kubernetes Releases 1.24.9](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-releases/services/rn/vmware-tanzu-kubernetes-releases-release-notes/index.html)
-- [VMware Container Networking with Antrea 1.6.0](https://docs.vmware.com/en/VMware-Container-Networking-with-Antrea/1.6.0/rn/vmware-container-networking-with-antrea-160-release-notes/index.html)
-- [VMware Tanzu Application Platform 1.5.0](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.5/tap/release-notes.html)
-- [VMware Tanzu Application Service 4.0.0](https://docs.vmware.com/en/VMware-Tanzu-Application-Service/4.0/tas-for-vms/runtime-rn.html)
-- [VMware Tanzu Mission Control - May 3, 2023](https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/rn/vmware-tanzu-mission-control-release-notes/index.html)
-- [VMware Tanzu Service Mesh v1.14.0](https://docs.vmware.com/en/VMware-Tanzu-Service-Mesh/services/rn/VMware-Tanzu-Service-Mesh-Release-Notes.html)
-- [VMware Tanzu Observability - VMware Aria Operations for Applications v2023-13.x](https://docs.wavefront.com/wavefront_release_notes.html)
-
+- [VMware vSphere with Tanzu 8.0.1c](https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vmware-vsphere-with-tanzu-80-release-notes/index.html)
+- [VMware Tanzu Kubernetes Grid 2.2.0](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/2.2/tkg-deploy-mc-22/mgmt-release-notes.html)
+- [Service Installer for VMware Tanzu 2.2.0.x](https://docs.vmware.com/en/Service-Installer-for-VMware-Tanzu/2.2.0/service-installer/GUID-index.html)
+- [Tanzu Kubernetes Releases 1.25.7](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-releases/services/rn/vmware-tanzu-kubernetes-releases-release-notes/index.html)
+- [VMware Container Networking with Antrea 1.7.0](https://docs.vmware.com/en/VMware-Container-Networking-with-Antrea/1.7.0/rn/vmware-container-networking-with-antrea-170-release-notes.pdf)
+- [VMware Tanzu Application Platform 1.6.1](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.6/tap/release-notes.html)
+- [VMware Tanzu Application Service 4.0.5](https://docs.vmware.com/en/VMware-Tanzu-Application-Service/4.0/tas-for-vms/runtime-rn.html)
+- [VMware Tanzu Mission Control - July 27, 2023](https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/rn/vmware-tanzu-mission-control-release-notes/index.html)
+- [VMware Tanzu Service Mesh Global Controller 3.2.0](https://docs.vmware.com/en/Tanzu/services/rn/vmware-tanzu-service-mesh-global-controller-release-notes/index.html)
+- [VMware Tanzu Service Mesh Data Plane 16.4.0](https://docs.vmware.com/en/VMware-Tanzu-Service-Mesh/services/tsm-data-plane-release-notes/GUID-EC59A3DA-5DCE-441E-868D-90D528F8BD9F.html)
+- [VMware Tanzu Observability - VMware Aria Operations for Applications v2023-29.x](https://docs.wavefront.com/wavefront_release_notes.html)
 
 
 ## Arquitecturas de referencia
@@ -39,10 +39,16 @@
 - [Workshops del Tanzu Developer Center](https://tanzu.vmware.com/developer/workshops/)
 - [Pathfinder Modern Apps](https://pathfinder.vmware.com/v3/explore/ds-catalog-modern-apps)
 
+## Lightboards
+- [Operaciones Modernas para entornos contenerizados: VMware TKO](https://www.youtube.com/watch?v=ShrOe50yuxk)
+- [Desarrolladores felices con Tanzu Application Platform
+](https://www.youtube.com/watch?v=IWmVSuKc1w4)
+
 ## Sobre Tanzu Hispano
 ### Meetups
 - [Página de grupo en meetup.com](https://www.meetup.com/es/tanzu-hispano/)
 
+- [Meetup #8](https://www.youtube.com/watch?v=iD0AYlryYF4): Conectando aplicaciones con Tanzu, Antrea y NSX Advanced Load Balancer
 - [Meetup #7](https://youtu.be/BPsrjRXt0Nc): ¿Backstage? ¿Supply chains? ¿Serverless? Veamos Tanzu Application Platform
 - [Meetup #6](https://youtu.be/z63oTNeTEi0): Tanzu para vSphere Admins: From Zero To Hero!
 - [Meetup #5](https://youtu.be/HPI7CLzFZeo): Sobre Tanzu Kubernetes Grid 2.0 en vSphere 8
