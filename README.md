@@ -17,7 +17,7 @@
 - [VMware vSphere with Tanzu 8.0.1c](https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vmware-vsphere-with-tanzu-80-release-notes/index.html)
 - [VMware Tanzu Kubernetes Grid 2.3.0](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/2.3/tkg-deploy-mc/mgmt-release-notes.html)
 - [Service Installer for VMware Tanzu 2.3.0](https://docs.vmware.com/en/Service-Installer-for-VMware-Tanzu/2.3.0/service-installer/GUID-index.html)
-- [Tanzu Kubernetes Releases 1.25.7](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-releases/services/rn/vmware-tanzu-kubernetes-releases-release-notes/index.html)
+- [Tanzu Kubernetes Releases 1.26.5](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-releases/services/rn/vmware-tanzu-kubernetes-releases-release-notes/index.html)
 - [VMware Container Networking with Antrea 1.7.0](https://docs.vmware.com/en/VMware-Container-Networking-with-Antrea/1.7.0/rn/vmware-container-networking-with-antrea-170-release-notes.pdf)
 - [VMware Tanzu Application Platform 1.6.1](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.6/tap/release-notes.html)
 - [VMware Tanzu Application Service 4.0.5](https://docs.vmware.com/en/VMware-Tanzu-Application-Service/4.0/tas-for-vms/runtime-rn.html)
